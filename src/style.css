@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+h3 {
+    font-size: 1.8rem;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+    font-size: 1.5rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.3rem;
+}
+
+.day {
+    background-image: url('assets/clouds-day.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 35%;
+    max-height: 35%;
+    margin: 0 auto;
+    padding: 1.5rem;
+    background-color: lightskyblue!important;
+}
+
+.night {
+    background-image: url('assets/clouds-night.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px; 
+    max-width: 35%;
+    max-height: 35%;
+    margin: 0 auto;
+    padding: 1.5rem;
+    color: white!important;
+    background-color: rgba(0, 0, 0, 0.9)!important;
+}
