@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 h3 {
-    font-size: 1.8rem;
+    font-size: 1.7rem;
     text-align: center;
     font-family: 'Poppins', sans-serif;
 }
@@ -21,10 +21,7 @@ p {
 .day {
     background-image: url('assets/clouds-day.png');
     background-size: cover;
-    background-repeat: no-repeat;
-    max-width: 35%;
-    max-height: 35%;
-    margin: 0 auto;
+    background-repeat: no-repeat;    
     padding: 1.5rem;
     background-color: lightskyblue!important;
 }
